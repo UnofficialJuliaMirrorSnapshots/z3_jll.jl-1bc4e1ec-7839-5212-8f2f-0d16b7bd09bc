@@ -1,0 +1,113 @@
+[[z3]]
+arch = "armv7l"
+git-tree-sha1 = "a69bcca26017cac10fdd4afaff2c2c7841202fdc"
+libc = "musl"
+os = "linux"
+
+    [[z3.download]]
+    sha256 = "192a110a8a3e433c0f0a6a0bfb75e58d6767860e1fa18ddb4b76cff08c5b3d22"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.8.6+0/z3.v4.8.6.arm-linux-musleabihf.tar.gz"
+[[z3]]
+arch = "i686"
+git-tree-sha1 = "e596783f8fb9396351e1154da9f8ac75bf4bc989"
+os = "windows"
+
+    [[z3.download]]
+    sha256 = "d1a8289fcadd11798e4403980a3198065a4924b1c8bf993ed129c1d1b3a313ce"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.8.6+0/z3.v4.8.6.i686-w64-mingw32.tar.gz"
+[[z3]]
+arch = "i686"
+git-tree-sha1 = "6d4c36313b21998c2678128e7a66c365452a54d7"
+libc = "glibc"
+os = "linux"
+
+    [[z3.download]]
+    sha256 = "3009219837e73f276f139ad9d4f8a73304465fee05c296a4afb9518807cb1ffc"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.8.6+0/z3.v4.8.6.i686-linux-gnu.tar.gz"
+[[z3]]
+arch = "x86_64"
+git-tree-sha1 = "63e25cbb1d70c2d4996e63a49f9cbe351c2ec1e0"
+libc = "glibc"
+os = "linux"
+
+    [[z3.download]]
+    sha256 = "6fa1d440635f4f6ff8a7fdcca10b84377a64865eb0d759fd11ec30fedebf0624"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.8.6+0/z3.v4.8.6.x86_64-linux-gnu.tar.gz"
+[[z3]]
+arch = "x86_64"
+git-tree-sha1 = "e6c741d851ebc0b38c81a6fadf7080481a490d62"
+os = "macos"
+
+    [[z3.download]]
+    sha256 = "7a814f1ecf2bd2ab5bb55ffc7aa93647bf6f5605ca989378b8b1273a136b06fb"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.8.6+0/z3.v4.8.6.x86_64-apple-darwin14.tar.gz"
+[[z3]]
+arch = "x86_64"
+git-tree-sha1 = "69e1c20cfdd4ddcb5ff36bae67258f74f48d5fa4"
+os = "freebsd"
+
+    [[z3.download]]
+    sha256 = "32e323a913d5207491f1353dfac1b51af247afa95b03d8fee3459cb7f5d7477c"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.8.6+0/z3.v4.8.6.x86_64-unknown-freebsd11.1.tar.gz"
+[[z3]]
+arch = "armv7l"
+git-tree-sha1 = "5a82a6985012f162046e562aa07e151073bfcafe"
+libc = "glibc"
+os = "linux"
+
+    [[z3.download]]
+    sha256 = "8c507dcc5400494ebd3a1d12afb55936e19863653c421131949cacc7e00a9f3b"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.8.6+0/z3.v4.8.6.arm-linux-gnueabihf.tar.gz"
+[[z3]]
+arch = "x86_64"
+git-tree-sha1 = "8f6412d9a63f7c369fc3e319a3fdb32189c6ce71"
+libc = "musl"
+os = "linux"
+
+    [[z3.download]]
+    sha256 = "0e41eb46dd87f0b4b89935480ec79757470dcb93e6e6a036fea6a9a850042997"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.8.6+0/z3.v4.8.6.x86_64-linux-musl.tar.gz"
+[[z3]]
+arch = "i686"
+git-tree-sha1 = "a16a383c1ae9c0fdab803b4239a6111dd0587733"
+libc = "musl"
+os = "linux"
+
+    [[z3.download]]
+    sha256 = "33571f98f9a8a8943d8ec1d777c51fea8241f1fd0a08cc988fd2568bdfa27f02"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.8.6+0/z3.v4.8.6.i686-linux-musl.tar.gz"
+[[z3]]
+arch = "powerpc64le"
+git-tree-sha1 = "0ba9a0dd9c693ad897e9aa6255d161feab53a6ec"
+libc = "glibc"
+os = "linux"
+
+    [[z3.download]]
+    sha256 = "3f053cf52a33fea45d5fbdd3cd3586658f0c6bd4d5a03a4f50dd2c38fc89a967"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.8.6+0/z3.v4.8.6.powerpc64le-linux-gnu.tar.gz"
+[[z3]]
+arch = "x86_64"
+git-tree-sha1 = "4eda59611974d850a37900a99d39f054d936291d"
+os = "windows"
+
+    [[z3.download]]
+    sha256 = "488899c0654838f6e6f6cce38055438df887ed490e83a7032d0586e12707668c"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.8.6+0/z3.v4.8.6.x86_64-w64-mingw32.tar.gz"
+[[z3]]
+arch = "aarch64"
+git-tree-sha1 = "692f9f05192da5a13f98e61bfde14c3972063f1d"
+libc = "glibc"
+os = "linux"
+
+    [[z3.download]]
+    sha256 = "9ac86e83c247cab66b15b84bb830a216fd1cc34b402595cb4f2795ed03494144"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.8.6+0/z3.v4.8.6.aarch64-linux-gnu.tar.gz"
+[[z3]]
+arch = "aarch64"
+git-tree-sha1 = "46f2a9a70cb2d15c6368f88708c09bf1248abf19"
+libc = "musl"
+os = "linux"
+
+    [[z3.download]]
+    sha256 = "e443a8447d5f6637212ab83b46de3ed9da1d07844b3672f39614728dc9d6b6a7"
+    url = "https://github.com/JuliaBinaryWrappers/z3_jll.jl/releases/download/z3-v4.8.6+0/z3.v4.8.6.aarch64-linux-musl.tar.gz"
